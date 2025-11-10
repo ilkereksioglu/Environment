@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Migrations\\20251110192312_postgreinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnvironmentRepository\\Migrations\\20251110192312_postgreinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|solutionrelative:environmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,20 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251110192312_postgreinitial.cs",
-              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Migrations\\20251110192312_postgreinitial.cs",
-              "RelativeDocumentMoniker": "EnvironmentRepository\\Migrations\\20251110192312_postgreinitial.cs",
-              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Migrations\\20251110192312_postgreinitial.cs",
-              "RelativeToolTip": "EnvironmentRepository\\Migrations\\20251110192312_postgreinitial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T19:23:12.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "EnvironmentAPI\\Controllers\\WeatherForecastController.cs",
@@ -124,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Adres.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Adres.cs",
               "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Adres.cs",
@@ -132,12 +115,11 @@
               "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Adres.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:24:42.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T23:24:42.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "AdresTip.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\AdresTip.cs",
               "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Types\\AdresTip.cs",
@@ -145,12 +127,11 @@
               "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Types\\AdresTip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T23:24:38.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T23:24:38.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EnvironmentAPI\\appsettings.json",
@@ -158,12 +139,11 @@
               "RelativeToolTip": "EnvironmentAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-08T21:05:23.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T21:05:23.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "ServiceResult.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\ServiceResult\\ServiceResult.cs",
               "RelativeDocumentMoniker": "EnvironmentServices\\ServiceResult\\ServiceResult.cs",
@@ -171,12 +151,11 @@
               "RelativeToolTip": "EnvironmentServices\\ServiceResult\\ServiceResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T09:33:08.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T09:33:08.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Kullanici\\RefreshToken.cs",
               "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Kullanici\\RefreshToken.cs",
@@ -184,12 +163,11 @@
               "RelativeToolTip": "EnvironmentRepository\\Models\\Kullanici\\RefreshToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T22:35:35.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T22:35:35.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Jwt.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\Helpers\\Jwt.cs",
               "RelativeDocumentMoniker": "EnvironmentServices\\Helpers\\Jwt.cs",
@@ -197,12 +175,11 @@
               "RelativeToolTip": "EnvironmentServices\\Helpers\\Jwt.cs",
               "ViewState": "AgIAACcAAAAAAAAAAADwvzkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T22:29:04.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T22:29:04.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "KullaniciController.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\KullaniciController.cs",
               "RelativeDocumentMoniker": "EnvironmentAPI\\Controllers\\KullaniciController.cs",
@@ -210,12 +187,11 @@
               "RelativeToolTip": "EnvironmentAPI\\Controllers\\KullaniciController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAqwDYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T10:58:02.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T10:58:02.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Program.cs",
               "RelativeDocumentMoniker": "EnvironmentAPI\\Program.cs",
@@ -223,12 +199,11 @@
               "RelativeToolTip": "EnvironmentAPI\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T00:13:38.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T00:13:38.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MusteriController.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\MusteriController.cs",
               "RelativeDocumentMoniker": "EnvironmentAPI\\Controllers\\MusteriController.cs",
@@ -236,12 +211,11 @@
               "RelativeToolTip": "EnvironmentAPI\\Controllers\\MusteriController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T23:48:28.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T23:48:28.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "MusteriDetailDTO.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\DTO\\MusteriDTO\\MusteriDetailDTO.cs",
               "RelativeDocumentMoniker": "EnvironmentServices\\DTO\\MusteriDTO\\MusteriDetailDTO.cs",
@@ -249,12 +223,11 @@
               "RelativeToolTip": "EnvironmentServices\\DTO\\MusteriDTO\\MusteriDetailDTO.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAD4v6oAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T23:29:01.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T23:29:01.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "MusteriService.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\Services\\MusteriService.cs",
               "RelativeDocumentMoniker": "EnvironmentServices\\Services\\MusteriService.cs",
@@ -262,12 +235,11 @@
               "RelativeToolTip": "EnvironmentServices\\Services\\MusteriService.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAmwE0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T00:16:56.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T00:16:56.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MusteriKategori.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\MusteriKategori.cs",
               "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Types\\MusteriKategori.cs",
@@ -275,12 +247,11 @@
               "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Types\\MusteriKategori.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T00:08:06.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T00:08:06.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "MusteriSektor.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\MusteriSektor.cs",
               "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Types\\MusteriSektor.cs",
@@ -288,12 +259,11 @@
               "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Types\\MusteriSektor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T00:07:48.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T00:07:48.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Enums\\Enums.cs",
               "RelativeDocumentMoniker": "EnvironmentRepository\\Enums\\Enums.cs",
@@ -301,12 +271,11 @@
               "RelativeToolTip": "EnvironmentRepository\\Enums\\Enums.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T00:05:39.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T00:05:39.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Kontak.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Kontak.cs",
               "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Kontak.cs",
@@ -314,12 +283,11 @@
               "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Kontak.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwCYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T23:48:39.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T23:48:39.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Musteri.cs",
               "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Musteri.cs",
               "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Musteri.cs",
@@ -327,8 +295,7 @@
               "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Musteri.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T23:46:15.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T23:46:15.028Z"
             }
           ]
         }

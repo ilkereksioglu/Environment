@@ -29,6 +29,7 @@ axiosInstance.interceptors.request.use(async (config) => {
 
 axiosInstance.interceptors.response.use(
   (res) => {
+    console.log("did enter here?")
     store.commit('hideLoadingOverlay');
     return res;
   },

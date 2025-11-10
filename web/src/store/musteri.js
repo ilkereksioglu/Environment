@@ -10,12 +10,12 @@ export default {
     },
     actions: {
         async musteriGetir({commit}, id){
-            //commit('showLoadingOverlay', null, { root: true });
+            commit('showLoadingOverlay', null, { root: true });
             return api.get('/musteri/' + id).then(
                 (response) => {
                     commit('musteriGetirSuccess');
                     commit('hideLoadingOverlay', null, { root: true });
-                    console.log("isItClosed?")
+                    console.log("isItClosed?");
                     return Promise.resolve(response.data);
                 },
                 (error) => {
