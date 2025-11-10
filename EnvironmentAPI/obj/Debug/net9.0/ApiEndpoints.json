@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "EnvironmentAPI.Controllers.KullaniciController",
+    "Method": "GirisYap",
+    "RelativePath": "girisyap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EnvironmentAPI.Models.Kullanici.GirisYapModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnvironmentAPI.Controllers.KullaniciController",
+    "Method": "KayitOl",
+    "RelativePath": "kayitol",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EnvironmentAPI.Models.Kullanici.KayitOlModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnvironmentAPI.Controllers.KullaniciController",
+    "Method": "KayitTest",
+    "RelativePath": "kayittest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnvironmentAPI.Controllers.KullaniciController",
+    "Method": "AccessTokenGetir",
+    "RelativePath": "tokengetir",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EnvironmentServices.Helpers.AccessTokenGetirModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EnvironmentAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EnvironmentAPI.WeatherForecast, EnvironmentAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\bin\Debug\net9.0\EnvironmentServices.deps.json
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\bin\Debug\net9.0\EnvironmentServices.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\bin\Debug\net9.0\EnvironmentServices.pdb
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\EnvironmentServices.csproj.AssemblyReference.cache
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\EnvironmentServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\EnvironmentServices.AssemblyInfoInputs.cache
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\EnvironmentServices.AssemblyInfo.cs
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\EnvironmentServices.csproj.CoreCompileInputs.cache
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\EnvironmentServices.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\refint\EnvironmentServices.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\EnvironmentServices.pdb
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\ref\EnvironmentServices.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\bin\Debug\net9.0\EnvironmentRepository.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\bin\Debug\net9.0\EnvironmentRepository.pdb
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\Environm.D672D8F4.Up2Date

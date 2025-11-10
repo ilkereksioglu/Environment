@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentapi\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|solutionrelative:environmentapi\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentapi\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|solutionrelative:environmentapi\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|solutionrelative:environmentapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F470B43-6313-4D51-9490-9E9E12908F2C}|EnvironmentServices\\EnvironmentServices.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentservices\\services\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F470B43-6313-4D51-9490-9E9E12908F2C}|EnvironmentServices\\EnvironmentServices.csproj|solutionrelative:environmentservices\\services\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentrepository\\models\\musteri\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|solutionrelative:environmentrepository\\models\\musteri\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F470B43-6313-4D51-9490-9E9E12908F2C}|EnvironmentServices\\EnvironmentServices.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentservices\\dto\\musteridto\\musteridetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F470B43-6313-4D51-9490-9E9E12908F2C}|EnvironmentServices\\EnvironmentServices.csproj|solutionrelative:environmentservices\\dto\\musteridto\\musteridetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentrepository\\models\\musteri\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|solutionrelative:environmentrepository\\models\\musteri\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentrepository\\models\\musteri\\types\\adrestip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|solutionrelative:environmentrepository\\models\\musteri\\types\\adrestip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|solutionrelative:environmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F470B43-6313-4D51-9490-9E9E12908F2C}|EnvironmentServices\\EnvironmentServices.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentservices\\serviceresult\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F470B43-6313-4D51-9490-9E9E12908F2C}|EnvironmentServices\\EnvironmentServices.csproj|solutionrelative:environmentservices\\serviceresult\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentrepository\\models\\kullanici\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|solutionrelative:environmentrepository\\models\\kullanici\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F470B43-6313-4D51-9490-9E9E12908F2C}|EnvironmentServices\\EnvironmentServices.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentservices\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F470B43-6313-4D51-9490-9E9E12908F2C}|EnvironmentServices\\EnvironmentServices.csproj|solutionrelative:environmentservices\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF1CCCC-9AEC-4804-93AA-5CA45C91F837}|EnvironmentAPI\\EnvironmentAPI.csproj|solutionrelative:environmentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentrepository\\models\\musteri\\types\\musterikategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|solutionrelative:environmentrepository\\models\\musteri\\types\\musterikategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentrepository\\models\\musteri\\types\\musterisektor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|solutionrelative:environmentrepository\\models\\musteri\\types\\musterisektor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentrepository\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|solutionrelative:environmentrepository\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|c:\\users\\ilker\\onedrive\\masa\u00FCst\u00FC\\myprojects\\environment\\environmentrepository\\models\\musteri\\kontak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D19809B-1BC2-4E47-AED8-1218C9225F70}|EnvironmentRepository\\EnvironmentRepository.csproj|solutionrelative:environmentrepository\\models\\musteri\\kontak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EnvironmentAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EnvironmentAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:57:54.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Adres.cs",
+              "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Adres.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Adres.cs",
+              "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Adres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:24:42.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdresTip.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\AdresTip.cs",
+              "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Types\\AdresTip.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\AdresTip.cs",
+              "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Types\\AdresTip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T23:24:38.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EnvironmentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\appsettings.json",
+              "RelativeToolTip": "EnvironmentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T21:05:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\ServiceResult\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "EnvironmentServices\\ServiceResult\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\ServiceResult\\ServiceResult.cs",
+              "RelativeToolTip": "EnvironmentServices\\ServiceResult\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:33:08.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Kullanici\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Kullanici\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Kullanici\\RefreshToken.cs",
+              "RelativeToolTip": "EnvironmentRepository\\Models\\Kullanici\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:35:35.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\Helpers\\Jwt.cs",
+              "RelativeDocumentMoniker": "EnvironmentServices\\Helpers\\Jwt.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\Helpers\\Jwt.cs",
+              "RelativeToolTip": "EnvironmentServices\\Helpers\\Jwt.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAiwIEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:29:04.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KullaniciController.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\KullaniciController.cs",
+              "RelativeDocumentMoniker": "EnvironmentAPI\\Controllers\\KullaniciController.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\KullaniciController.cs",
+              "RelativeToolTip": "EnvironmentAPI\\Controllers\\KullaniciController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:58:02.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EnvironmentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Program.cs",
+              "RelativeToolTip": "EnvironmentAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T00:13:38.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusteriController.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\MusteriController.cs",
+              "RelativeDocumentMoniker": "EnvironmentAPI\\Controllers\\MusteriController.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentAPI\\Controllers\\MusteriController.cs",
+              "RelativeToolTip": "EnvironmentAPI\\Controllers\\MusteriController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:48:28.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusteriDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\DTO\\MusteriDTO\\MusteriDetailDTO.cs",
+              "RelativeDocumentMoniker": "EnvironmentServices\\DTO\\MusteriDTO\\MusteriDetailDTO.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\DTO\\MusteriDTO\\MusteriDetailDTO.cs",
+              "RelativeToolTip": "EnvironmentServices\\DTO\\MusteriDTO\\MusteriDetailDTO.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4v6oAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:29:01.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusteriService.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\Services\\MusteriService.cs",
+              "RelativeDocumentMoniker": "EnvironmentServices\\Services\\MusteriService.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentServices\\Services\\MusteriService.cs",
+              "RelativeToolTip": "EnvironmentServices\\Services\\MusteriService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:16:56.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusteriKategori.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\MusteriKategori.cs",
+              "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Types\\MusteriKategori.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\MusteriKategori.cs",
+              "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Types\\MusteriKategori.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:08:06.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MusteriSektor.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\MusteriSektor.cs",
+              "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Types\\MusteriSektor.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Types\\MusteriSektor.cs",
+              "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Types\\MusteriSektor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:07:48.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "EnvironmentRepository\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Enums\\Enums.cs",
+              "RelativeToolTip": "EnvironmentRepository\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T00:05:39.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Kontak.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Kontak.cs",
+              "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Kontak.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Kontak.cs",
+              "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Kontak.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T23:48:39.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Musteri.cs",
+              "RelativeDocumentMoniker": "EnvironmentRepository\\Models\\Musteri\\Musteri.cs",
+              "ToolTip": "C:\\Users\\ilker\\OneDrive\\Masa\u00FCst\u00FC\\MyProjects\\Environment\\EnvironmentRepository\\Models\\Musteri\\Musteri.cs",
+              "RelativeToolTip": "EnvironmentRepository\\Models\\Musteri\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T23:46:15.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

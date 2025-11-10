@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonName Condition="$(PackageJsonName) == ''">Cevre</PackageJsonName>
+    <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">0.1.0</PackageJsonVersion>
+    <PackageJsonPrivate Condition="$(PackageJsonPrivate) == ''">true</PackageJsonPrivate>
+    <PackageJsonScriptsServe Condition="$(PackageJsonScriptsServe) == ''">vue-cli-service serve</PackageJsonScriptsServe>
+    <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">vue-cli-service build</PackageJsonScriptsBuild>
+    <PackageJsonDependenciesFortawesomeFontawesomeSvgCore Condition="$(PackageJsonDependenciesFortawesomeFontawesomeSvgCore) == ''">^7.0.1</PackageJsonDependenciesFortawesomeFontawesomeSvgCore>
+    <PackageJsonDependenciesPopperjsCore Condition="$(PackageJsonDependenciesPopperjsCore) == ''">^2.11.8</PackageJsonDependenciesPopperjsCore>
+    <PackageJsonDependenciesVuelidateCore Condition="$(PackageJsonDependenciesVuelidateCore) == ''">^2.0.3</PackageJsonDependenciesVuelidateCore>
+    <PackageJsonDependenciesVuelidateValidators Condition="$(PackageJsonDependenciesVuelidateValidators) == ''">^2.0.4</PackageJsonDependenciesVuelidateValidators>
+    <PackageJsonDependenciesApexcharts Condition="$(PackageJsonDependenciesApexcharts) == ''">^5.3.4</PackageJsonDependenciesApexcharts>
+    <PackageJsonDependenciesAxios Condition="$(PackageJsonDependenciesAxios) == ''">^1.12.2</PackageJsonDependenciesAxios>
+    <PackageJsonDependenciesBootstrap Condition="$(PackageJsonDependenciesBootstrap) == ''">^5.3.8</PackageJsonDependenciesBootstrap>
+    <PackageJsonDependenciesFontawesome Condition="$(PackageJsonDependenciesFontawesome) == ''">^5.6.3</PackageJsonDependenciesFontawesome>
+    <PackageJsonDependenciesJwtDecode Condition="$(PackageJsonDependenciesJwtDecode) == ''">^4.0.0</PackageJsonDependenciesJwtDecode>
+    <PackageJsonDependenciesSweetalert2 Condition="$(PackageJsonDependenciesSweetalert2) == ''">^11.26.3</PackageJsonDependenciesSweetalert2>
+    <PackageJsonDependenciesVeeValidate Condition="$(PackageJsonDependenciesVeeValidate) == ''">^4.15.1</PackageJsonDependenciesVeeValidate>
+    <PackageJsonDependenciesVue Condition="$(PackageJsonDependenciesVue) == ''">^3.2.13</PackageJsonDependenciesVue>
+    <PackageJsonDependenciesVueLoadingOverlay Condition="$(PackageJsonDependenciesVueLoadingOverlay) == ''">6.0</PackageJsonDependenciesVueLoadingOverlay>
+    <PackageJsonDependenciesVueRouter Condition="$(PackageJsonDependenciesVueRouter) == ''">^4.0.3</PackageJsonDependenciesVueRouter>
+    <PackageJsonDependenciesVue3Apexcharts Condition="$(PackageJsonDependenciesVue3Apexcharts) == ''">^1.8.0</PackageJsonDependenciesVue3Apexcharts>
+    <PackageJsonDependenciesVue3PerfectScrollbar Condition="$(PackageJsonDependenciesVue3PerfectScrollbar) == ''">^2.0.0</PackageJsonDependenciesVue3PerfectScrollbar>
+    <PackageJsonDependenciesVue3Select2Component Condition="$(PackageJsonDependenciesVue3Select2Component) == ''">^0.1.7</PackageJsonDependenciesVue3Select2Component>
+    <PackageJsonDependenciesVuex Condition="$(PackageJsonDependenciesVuex) == ''">^4.0.0</PackageJsonDependenciesVuex>
+    <PackageJsonDevdependenciesVueCliPluginBabel Condition="$(PackageJsonDevdependenciesVueCliPluginBabel) == ''">~5.0.0</PackageJsonDevdependenciesVueCliPluginBabel>
+    <PackageJsonDevdependenciesVueCliPluginRouter Condition="$(PackageJsonDevdependenciesVueCliPluginRouter) == ''">~5.0.0</PackageJsonDevdependenciesVueCliPluginRouter>
+    <PackageJsonDevdependenciesVueCliPluginVuex Condition="$(PackageJsonDevdependenciesVueCliPluginVuex) == ''">~5.0.0</PackageJsonDevdependenciesVueCliPluginVuex>
+    <PackageJsonDevdependenciesVueCliService Condition="$(PackageJsonDevdependenciesVueCliService) == ''">~5.0.0</PackageJsonDevdependenciesVueCliService>
+  </PropertyGroup>
+</Project>
