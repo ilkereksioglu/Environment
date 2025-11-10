@@ -12,3 +12,4 @@ C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\
 C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Debug\net9.0\EnvironmentRepository.pdb
 C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Debug\net9.0\EnvironmentRepository.genruntimeconfig.cache
 C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Debug\net9.0\ref\EnvironmentRepository.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Debug\net9.0\EnvironmentRepository.sourcelink.json

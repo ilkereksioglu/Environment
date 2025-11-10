@@ -13,3 +13,4 @@ C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\ob
 C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\bin\Debug\net9.0\EnvironmentRepository.dll
 C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\bin\Debug\net9.0\EnvironmentRepository.pdb
 C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\Environm.D672D8F4.Up2Date
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentServices\obj\Debug\net9.0\EnvironmentServices.sourcelink.json

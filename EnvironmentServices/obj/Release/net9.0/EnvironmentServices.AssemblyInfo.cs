@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnvironmentServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f77765056a9c09a4b05d6829cbe73d142bdd03cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnvironmentServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnvironmentServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

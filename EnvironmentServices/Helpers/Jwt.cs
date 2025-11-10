@@ -49,10 +49,13 @@ namespace EnvironmentServices.Helpers
         public string CreateJwtToken(List<Claim> Claims = null)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
+            /*
             (Claims = Claims ?? new List<Claim>())
                 .AddRange(
                     new Claim("iss", _jwtSettings.Issuer)
                 );
+            */
+            Claims = new List<Claim>();
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(Claims),

@@ -1,0 +1,15 @@
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\bin\Release\net9.0\EnvironmentRepository.deps.json
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\bin\Release\net9.0\EnvironmentRepository.runtimeconfig.json
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\bin\Release\net9.0\EnvironmentRepository.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\bin\Release\net9.0\EnvironmentRepository.pdb
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.csproj.AssemblyReference.cache
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.AssemblyInfoInputs.cache
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.AssemblyInfo.cs
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.csproj.CoreCompileInputs.cache
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.sourcelink.json
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\refint\EnvironmentRepository.dll
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.pdb
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\EnvironmentRepository.genruntimeconfig.cache
+C:\Users\ilker\OneDrive\Masaüstü\MyProjects\Environment\EnvironmentRepository\obj\Release\net9.0\ref\EnvironmentRepository.dll

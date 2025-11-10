@@ -9,7 +9,6 @@ using EnvironmentRepository.UnitOfWork;
 using EnvironmentServices.Helpers;
 using EnvironmentServices.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Reflection;
@@ -27,11 +26,11 @@ builder.Services.AddControllers(options =>
 builder.Services.AddMemoryCache();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
-builder.Services.AddDbContext<EnvironmentDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("EnvironmentDb"), option =>
+builder.Services.AddDbContext<EnvironmentDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("EnvironmentDb"), option =>
 {
     option.MigrationsAssembly(Assembly.GetAssembly(typeof(EnvironmentDbContext))!.GetName().Name);
 }));
-builder.Services.AddDbContextFactory<EnvironmentDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("EnvironmentDb")), ServiceLifetime.Scoped);
+builder.Services.AddDbContextFactory<EnvironmentDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("EnvironmentDb")), ServiceLifetime.Scoped);
 builder.Services.AddIdentity<Kullanici, Rol>().AddEntityFrameworkStores<EnvironmentDbContext>();
 builder.Services.AddScoped<ITokenHandler, JwtTokenHandler>();
 builder.Services.AddSingleton<JwtSettings>(sp =>
@@ -79,7 +78,7 @@ builder.Services.AddAuthentication(options =>
             ValidIssuer = builder.Configuration["JwtSettings:Issuer"],
             IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:Key"]!)),
             ValidateLifetime = true,
-            ValidateIssuer = true,
+            ValidateIssuer = false,
             ValidateIssuerSigningKey = true,
             ValidateAudience = false,
         };
